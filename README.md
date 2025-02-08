@@ -12,8 +12,7 @@
  4. Which customer make the highest sales?
  5. Compare the profit and loss by month in a single chart.
  6. Which category contributing maximum to the sales?
- 7. Dashboard interaction- <a href="[https://github.com/Shilpa2654/MADHAV-ECOMMERCE-SALES/blob/main/Madhav_stores.png]">Report</a>
-
+ 7. Dashboard interaction - <a href="https://github.com/Shilpa2654/MADHAV-ECOMMERCE-SALES/blob/main/Madhav_stores.png">Report</a>
 ## Process
 - Verify data for any missing values and anomalies and sort out the same.
 - Make sure data is consistent and clean with respect to datatype, data format and values used.
