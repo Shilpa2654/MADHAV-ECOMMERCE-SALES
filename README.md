@@ -13,3 +13,16 @@
  5. Compare the profit and loss by month in a single chart.
  6. Which category contributing maximum to the sales?
 
+## Process
+- Verify data for any missing values and anomalies and sort out the same.
+- Make sure data is consistent and clean with respect to datatype, data format and values used.
+- Understanding the organisation's business goals.
+- Identifying the metrics to be analysed to achieve those goals.
+- Collecting and analysing the relevent data.
+- Obtaining insights to this data.
+- Communicating how this data impacts the organisation.
+
+## Dashboard: 
+![image](https://github.com/user-attachments/assets/40955cff-bd24-4d4d-8993-1d68c76e208c)
+
+
