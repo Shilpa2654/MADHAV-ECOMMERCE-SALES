@@ -12,6 +12,7 @@
  4. Which customer make the highest sales?
  5. Compare the profit and loss by month in a single chart.
  6. Which category contributing maximum to the sales?
+ 7. Dashboard interaction- <a href="[https://github.com/Shilpa2654/MADHAV-ECOMMERCE-SALES/blob/main/Madhav_stores.png]">Report</a>
 
 ## Process
 - Verify data for any missing values and anomalies and sort out the same.
@@ -24,5 +25,13 @@
 
 ## Dashboard: 
 ![image](https://github.com/user-attachments/assets/40955cff-bd24-4d4d-8993-1d68c76e208c)
+
+
+## Project insight:
+- Harivansh customer made the highest sales.
+- Clothing is the most sold category of 63%.
+- Maximum profit is in the month of November and loss is in the month of September.
+- 44% of Payment is done throgh COD payment mode.
+- Maharashtra has the highest sales.
 
 
